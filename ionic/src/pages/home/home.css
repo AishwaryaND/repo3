@@ -1,8 +1,7 @@
-#page-home {
-  --theme-primary-color: #494a68;
-  background: var(--theme-primary-color);
-  background-size: cover;
-  backund-repeat: no-repeat;
-  background-position: center;
-}
+<ion-header>
+    <>
+        <ion-tile>
+    </ion-navbar>
+</ion-header>
 
+<ion-content padding text-center id="page-home"></ion-content>
