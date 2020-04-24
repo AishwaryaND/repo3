@@ -1,6 +1,6 @@
 /* write your css here */
 /* iphone 4 & 4s */
-@media only screen 
+@media only
   and (min-device-width: 320px) 
   and (max-device-width: 480px) {}
 
