@@ -7,12 +7,13 @@ import { HomePage } from '../pages/home/home';
 import { LiveUpdateProvider } from '../providers/live-update/live-update';
 import { StatusBar } from '@ionic-native/status-bar';
 import { SplashScreen } from '@ionic-native/splash-screen';
+import { VcvnbPage } from "../pages/vcvnb/vcvnb";
 
 @NgModule({
   declarations: [
     MyApp,
     HomePage
-  ],
+  ,VcvnbPage],
   imports: [
     BrowserModule,
     IonicModule.forRoot(MyApp),
@@ -21,7 +22,7 @@ import { SplashScreen } from '@ionic-native/splash-screen';
   entryComponents: [
     MyApp,
     HomePage
-  ],
+  ,VcvnbPage],
   providers: [
     StatusBar,
     SplashScreen,
