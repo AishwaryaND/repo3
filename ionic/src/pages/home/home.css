@@ -2,7 +2,7 @@
   --theme-primary-color: #494a68;
   background: var(--theme-primary-color);
   background-size: cover;
-  background-repeat: no-repeat;
+  backund-repeat: no-repeat;
   background-position: center;
 }
 

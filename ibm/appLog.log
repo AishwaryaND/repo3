@@ -435,3 +435,15 @@ Success | IonicFsHandler | runCodePageScripts | Fri Apr 24 2020, 10:12:21 GMT+05
  Info | settingsDB | init | Fri Apr 24 2020, 10:19:20 GMT+0530 (India Standard Time) | SettingsDB initialized
 Success | projectHandler | loadProjectDatabase | Fri Apr 24 2020, 10:19:20 GMT+0530 (India Standard Time) | Initialized all the DBs
  Info | ImportExportConfig | importConfiguration | Fri Apr 24 2020, 10:19:56 GMT+0530 (India Standard Time) | Imported project configuration successfully
+ Info | projectHandler | loadProjectDatabase | Fri Apr 24 2020, 10:23:59 GMT+0530 (India Standard Time) | Initializing DBs for workspace  /Users/aishwaryadodmani/Desktop/appTest
+ Info | datasourceDB | init | Fri Apr 24 2020, 10:23:59 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Fri Apr 24 2020, 10:23:59 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Fri Apr 24 2020, 10:23:59 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Fri Apr 24 2020, 10:23:59 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Fri Apr 24 2020, 10:23:59 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Fri Apr 24 2020, 10:23:59 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Fri Apr 24 2020, 10:23:59 GMT+0530 (India Standard Time) | Initialized all the DBs
+ Info | BuilderEditor | saveFile | Fri Apr 24 2020, 10:24:24 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/appTest/ionic/src/pages/home/home.html
+ Info | BuilderEditor | saveFile | Fri Apr 24 2020, 10:24:31 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/appTest/ionic/src/pages/home/home.css
+ Info | BuilderEditor | saveFile | Fri Apr 24 2020, 10:24:31 GMT+0530 (India Standard Time) | saved file /Users/aishwaryadodmani/Desktop/appTest/ionic/src/pages/home/home.css
+ Info | ImportExportConfig | importConfiguration | Fri Apr 24 2020, 10:24:32 GMT+0530 (India Standard Time) | Imported project configuration successfully
