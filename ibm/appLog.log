@@ -420,3 +420,17 @@ Success | projectHandler | loadProjectDatabase | Fri Apr 24 2020, 10:10:39 GMT+0
  Info | [object Object] | undefined | Fri Apr 24 2020, 10:12:21 GMT+0530 (India Standard Time) | undefined
 Success | IonicFsHandler | runCodePageScripts | Fri Apr 24 2020, 10:12:21 GMT+0530 (India Standard Time) | Successfully ran npm install
 Success | IonicFsHandler | runCodePageScripts | Fri Apr 24 2020, 10:12:21 GMT+0530 (India Standard Time) | Successfully installed npm modules and added Cordova plugins
+ Info | APIProjectActions | prepareAPIProject | Fri Apr 24 2020, 10:14:18 GMT+0530 (India Standard Time) | Preparing API Project
+ Info | APIProjectActions | deployAdapter | Fri Apr 24 2020, 10:14:18 GMT+0530 (India Standard Time) | Deploying API Project adapter
+ Info | APIProjectActions | deployAdapter | Fri Apr 24 2020, 10:14:19 GMT+0530 (India Standard Time) | API Project adapter deployed to server
+ Info | APIProjectActions | prepareAPIProject | Fri Apr 24 2020, 10:14:19 GMT+0530 (India Standard Time) | Successfully prepared API Project
+ Info | settingsDB | getByType | Fri Apr 24 2020, 10:14:24 GMT+0530 (India Standard Time) | getByType returned null
+ Info | settingsDB | getByType | Fri Apr 24 2020, 10:14:24 GMT+0530 (India Standard Time) | getByType returned null
+ Info | projectHandler | loadProjectDatabase | Fri Apr 24 2020, 10:19:20 GMT+0530 (India Standard Time) | Initializing DBs for workspace  /Users/aishwaryadodmani/Desktop/appTest
+ Info | datasourceDB | init | Fri Apr 24 2020, 10:19:20 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Fri Apr 24 2020, 10:19:20 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Fri Apr 24 2020, 10:19:20 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Fri Apr 24 2020, 10:19:20 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Fri Apr 24 2020, 10:19:20 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Fri Apr 24 2020, 10:19:20 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Fri Apr 24 2020, 10:19:20 GMT+0530 (India Standard Time) | Initialized all the DBs
